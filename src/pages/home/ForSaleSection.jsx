@@ -52,8 +52,7 @@ function ForSaleSection() {
       <div className="col-span-4 xl:pr-16 text-center xl:text-left">
         <h2 className="text-4xl font-bold text-gray-900 mb-4">For Sale</h2>
         <p className="text-gray-600 leading-loose xl:mb-12 mb-6">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi officia expedita et non
-          vero quos.
+         Designed to simplify the process of finding, listing, and managing properties for rent or sale
         </p>
         <Link to="/category/sale" className="btn btn-primary w-40 mb-8 xl:mb-0">
           View all
