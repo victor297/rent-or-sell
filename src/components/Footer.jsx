@@ -12,8 +12,8 @@ function Footer() {
         </a>
       </div>
       Built by{' '}
-      <a href="https://github.com/agrajy10" target="_blank" className="hover:underline">
-        Agraj Yadav
+      <a href="https://github.com/victor297" target="_blank" className="hover:underline">
+        David Victor
       </a>
     </footer>
   );
