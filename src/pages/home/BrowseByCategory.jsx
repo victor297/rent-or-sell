@@ -8,8 +8,7 @@ function BrowseByCateogry() {
     <>
       <h2 className="text-4xl font-bold text-gray-900 mb-2 text-center">Browse by category</h2>
       <p className="text-gray-600 leading-loose text-center mb-8">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi officia expedita et non vero
-        quos.
+        Designed to simplify the process of finding, listing, and managing properties for rent or sale.
       </p>
       <div className="grid sm:grid-cols-2 grid-cols-1 gap-3 md:gap-8">
         <CategoryBlock bgImage={ForSaleCategoryBg} categoryName="For Sale" to="/category/sale" />
