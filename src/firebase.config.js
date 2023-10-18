@@ -5,12 +5,12 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
- apiKey: "AIzaSyCYK1tyZScBpr4qOZXiPpv9FhHrKGW8Dlw",
-  authDomain: "rentorsell-f7574.firebaseapp.com",
-  projectId: "rentorsell-f7574",
-  storageBucket: "rentorsell-f7574.appspot.com",
-  messagingSenderId: "733932833329",
-  appId: "1:733932833329:web:7926b160a910253ce72310"
+   apiKey: "AIzaSyC3S9gkhiWaiUYy42XkU67jmuCmX9yQwyk",
+  authDomain: "rent-189e1.firebaseapp.com",
+  projectId: "rent-189e1",
+  storageBucket: "rent-189e1.appspot.com",
+  messagingSenderId: "1041725170303",
+  appId: "1:1041725170303:web:07dd9dfe276a294391554a"
 }
 
 // Initialize Firebase
