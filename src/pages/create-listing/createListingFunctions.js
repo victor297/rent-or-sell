@@ -84,7 +84,7 @@ export const submitListingData = async (values) => {
 
     return listingDocRef.id;
   } catch (error) {
-    toast.error(error.message);
+    toast.error('hi',error.message);
   }
 };
 
