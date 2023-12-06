@@ -16,7 +16,7 @@ const validationSchema = Yup.object({
   }),
   bathrooms: Yup.number().min(1, 'Cannot be less than one').required('Required'),
   carspace: Yup.number().min(0, 'Cannot be less than zero').required('Required'),
-  listingSize: Yup.number().positive('Invalid value').required('Required'),
+  listingSize: Yup.number().positive('Invalid value entered').required('Required'),
   regularPrice: Yup.number().positive('Enter a valid price').required('Required'),
   images: Yup.mixed().required('You must upload atleast one image')
 });
