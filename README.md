@@ -32,7 +32,7 @@ This project is an improved version of the project that Brad Traversy built in h
 - [Tailwind](https://tailwindcss.com/)
 - [DasiyUI](https://daisyui.com/)
 - [Formik](https://formik.org/)
-- [Yup](https://github.com/jquense/yup)
+- [npm](https://github.com/jquense/npm)
 - [Firebase](https://firebase.google.com/)
 - [React router v6](https://reactrouter.com/)
 - [Leaflet](https://leafletjs.com/)
