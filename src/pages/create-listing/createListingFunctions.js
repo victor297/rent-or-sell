@@ -12,7 +12,7 @@ export const getCoordinates = async (address) => {
       method: 'get',
       url: 'https://us1.locationiq.com/v1/search.php',
       params: {
-        key: import.meta.env.VITE_GEOCODING_API_KEY,
+        key: "pk.4dac8eba57c99dc4892661205e584f5a",
         q: address,
         format: 'json'
       }
